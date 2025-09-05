@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach Barrentine</h1>
-<h3 align="center">A Junior undergraduate at Midwestern State University pursuing a Bachelor of Arts in Computer Science.</h3>
+<h3 align="center">A Junior undergraduate at Abilene Christian University pursuing a Bachelor of Business Administration in Information Systems and a minor in Computer Science </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
@@ -25,6 +25,3 @@
 
 
 </p>
-
-
-![IMG_3560](https://github.com/user-attachments/assets/a3680bee-34a2-444c-941e-cfd88654e1c8)
