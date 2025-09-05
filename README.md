@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zach Barrentine</h1>
-<h3 align="center">A Junior undergraduate at Abilene Christian University pursuing a Bachelor of Business Administration in Information Systems and a minor in Computer Science </h3>
+<h1 align="center">Hi, I'm Zach Barrentine 😃</h1>
+<h3 align="center">A Junior undergraduate at Abilene Christian University pursuing a Bachelor of Business Administration in Information Systems and a Minor in Computer Science. </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
